@@ -23,5 +23,12 @@ div {
     top: 0;
     padding: 5px;
     vertical-align: middle;
+    margin-bottom: 17px;
+}
+
+/* Small List Formatting */
+
+h6 {
+    font-weight: normal;
 }
 
