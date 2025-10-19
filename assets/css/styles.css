@@ -1,12 +1,33 @@
 
 /* css */
 
+/* Misc. Text Formatting */
+
 div {
     font-family: "Source Sans 3", sans-serif;
     font-optical-sizing: auto;
     font-weight: normal;
     font-style: normal;
 }
+
+.look-at-me {
+    text-align: center;
+}
+
+h2 {
+    font-weight: bold;
+}
+
+h3 {
+    font-weight: 650;
+}
+
+.description {
+    font-weight: 600;
+    font-size: 1.5rem;
+    margin-top: 8px;
+}
+
 
 /* Header */
 .header {
@@ -30,5 +51,19 @@ div {
 
 h6 {
     font-weight: normal;
+}
+
+.med-img {
+    height: 20%;
+    width: 100%;
+    margin: 8px 0px;
+}
+
+.sm-img {
+    margin: 10px 0px;
+}
+
+.line {
+    width: 2px;
 }
 
